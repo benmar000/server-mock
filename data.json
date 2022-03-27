@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Bart Simpson",
+    "age": "20",
+    "visits": [
+      { "date": "01/01/2019", "time": "10:00" },
+      { "date": "02/01/2019", "time": "11:00" }
+    ]
+  },
+  {
+    "name": "Lisa Simpson",
+    "age": "22",
+    "visits": [{ "date": "02/01/2019", "time": "12:00" }]
+  },
+  {
+    "name": "Maggie Simpson",
+    "age": "18",
+    "visits": [{ "date": "03/01/2019", "time": "13:00" }]
+  },
+  {
+    "name": null,
+    "age": null,
+    "visits": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "visits": null
+  },
+  {
+    "name": null,
+    "age": null,
+    "visits": null
+  },
+  {
+    "name": "Marge Simpson",
+    "age": "30",
+    "visits": [{ "date": "04/01/2019", "time": "14:00" }]
+  }
+]
