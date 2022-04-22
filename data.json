@@ -2,7 +2,8 @@
   {
     "name": "Bart  Simpson",
     "age": "20",
-    "visits": [{ "date": "01/01/2019" }, { "date": "02/01/2019" }]
+    "visits": [{ "date": "01/01/2019" }, { "date": "02/01/2019" }],
+    "pets": []
   },
   {
     "name": "Lisa Simpson ",
@@ -11,7 +12,8 @@
       { "date": "02/01/2019" },
       { "date": "03/01/2019" },
       { "date": "04/01/2019" }
-    ]
+    ],
+    "pets": [{ "name": "fido", "type": "dog" }]
   },
   {
     "name": "MaggIE Simpson",
@@ -20,7 +22,14 @@
       { "date": "03/01/2019" },
       { "date": "04/01/2019" },
       { "date": "05/01/2019" }
-    ]
+    ],
+    "pets": [{ "name": "garfield", "type": "cat" }]
+  },
+  {
+    "name": null,
+    "age": null,
+    "visits": null,
+    "pets": null
   },
   {
     "name": null,
@@ -30,16 +39,13 @@
   {
     "name": null,
     "age": null,
-    "visits": null
-  },
-  {
-    "name": null,
-    "age": null,
-    "visits": null
+    "visits": null,
+    "pets": null
   },
   {
     "name": "Marge Simpson",
     "age": "30",
-    "visits": [{ "date": "04/01/2019" }]
+    "visits": [{ "date": "04/01/2019" }],
+    "pets": [{ "name": "scooby", "type": "dog" }]
   }
 ]
